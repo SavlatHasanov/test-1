@@ -3,7 +3,7 @@
 //console.log(1 * 2)//2
 //console.log(1 / 2)//0.5
 
-//**,%
+//**,%.
 
 //console.log(2**4)//16
 //console.log(4%3)//1
